@@ -1,6 +1,7 @@
 # Birthday-Greeting-App
 
 A birthday greeting Android app in Kotlin language.
+- Used LottieFiles for animated GIFs
 
 ### App Screenshots
 <p float="left">
